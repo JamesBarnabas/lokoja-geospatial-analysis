@@ -1,0 +1,27 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# QGIS temporary files
+*.lock
+*.qgd
+
+# Raw spatial data
+Data/raw/
+
+# Processed/large datasets
+Data/processed/
+
+# Outputs
+Outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
